@@ -1,0 +1,10 @@
+{
+  "name": "AgileOne - ",
+  "hideGenerator": false,
+  "silent": true,
+  "tsconfig": "tsconfig.json",
+  "output": "typedocs",
+  "customFavicon": "./public/favicon.svg",
+  "customLogo": "./public/icon.svg",
+  "theme": "readthedocs"
+}
